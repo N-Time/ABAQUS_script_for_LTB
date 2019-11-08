@@ -9,3 +9,6 @@ Follewing script is helpful to modify the .inp by adding distribution loads conv
 
 Follewing script is helpful to output the eigenvalues of the LTB model conveniently.
 "output_eigenvalues_from_dat_file.py"
+
+Contact:
+wentx17@lzu.edu.cn
