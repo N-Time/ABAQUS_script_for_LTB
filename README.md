@@ -12,4 +12,4 @@ Follewing script is helpful to output the eigenvalues of the LTB model convenien
 "output_eigenvalues_from_dat_file.py"
 
 Contact:
-wentx17@lzu.edu.cn
+wentx20@csu.edu.cn
