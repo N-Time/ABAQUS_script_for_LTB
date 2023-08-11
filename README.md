@@ -5,10 +5,10 @@ Breif: A script for building an elastic lateral-torsional buckling process of be
 
 Note: the obove scripts are only utilized to run in ABAQUS.
 
-Follewing script is helpful to modify the .inp by adding distribution loads conveniently.
+Following script is helpful to modify the .inp by adding distribution loads conveniently.
 "add_distribution_loads_to_inp_file.py"
 
-Follewing script is helpful to output the eigenvalues of the LTB model conveniently.
+Following script is helpful to output the eigenvalues of the LTB model conveniently.
 "output_eigenvalues_from_dat_file.py"
 
 Contact:
